@@ -43,7 +43,7 @@ As a busy individual, I want to have a simple and intuitive tool to manage my da
 - Voice Commands: Implement voice command functionality to allow users to manage tasks using voice input.
 
 ## Screenshot
-![Screenshot of the application](path/to/screenshot.png)
+![Screenshot of the application](file:///Users/gavingarcia/Desktop/bootcamp/UCI-VIRT-FSF-PT-06-2023-U-LOLC/07-Project-1/to-do-list/screenshot.png)
 
 ## Link to Deployed Application
-[Deployed Application](URL_of_deployed_application)
+[Deployed Application](file:///Users/gavingarcia/Desktop/bootcamp/UCI-VIRT-FSF-PT-06-2023-U-LOLC/07-Project-1/to-do-list/index.html)
